@@ -1,0 +1,1 @@
+Use echo and the '>' operator to create your own flag.
